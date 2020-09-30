@@ -1,0 +1,3 @@
+"C:\\Program Files (x86)\\Xinox Software\\JCreatorV4\\MyProjects\\SimpleChat\\src\\ChatClient.java"
+"C:\\Program Files (x86)\\Xinox Software\\JCreatorV4\\MyProjects\\SimpleChat\\src\\ClientConsole.java"
+"C:\\Program Files (x86)\\Xinox Software\\JCreatorV4\\MyProjects\\SimpleChat\\src\\EchoServer.java"
